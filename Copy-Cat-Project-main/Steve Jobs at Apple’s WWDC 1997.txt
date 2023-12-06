@@ -1,0 +1,436 @@
+Good Morning. Thank you very much. I really appreciate that.
+
+I wanted to come and have a chat this morning. I know you’ve been getting lots of presentations all week so I didn’t want to do a big fancy presentation. What I want to do is just chat, and so we get to spend 45 minutes or so together and I want to talk about whatever you want to talk about. I have opinions on most things so …. I figured if you just wanted to start asking some questions, we’ll go to some good places.
+
+Just to set the tone a little bit, I’m actually pretty excited about the way things are going. I think that there are some really good people who you met this week running the key areas of Apple now, and I think they are making enormous progress toward executing what is a pretty clear strategy. And that strategy revolves around one fundamental concept, which is to make some really great products. And I believe very firmly that there is still a very sizable market for some really great products and there are some giant holes that we can fill with your help. So, I am open to entertaining any of your questions and I hope you have some good ones this morning!
+
+Focusing is About Saying NO
+Question: What about OpenDoc?
+
+Steve: What about OpenDoc? What about it? It’s dead, right? Well, let me say something. I know some of you spend a lot of time working on stuff that we put a bullet in the head of. I apologize. But Apple suffered for several years from lousy engineering management. I have to say it. And there were people that were going off in 18 different directions doing arguably interesting things in each one of them. Good engineers – lousy management. And what happened was you look at the farm that’s been created with all these different animals going in different directions and it doesn’t add up. The total is less than the sum of the parts. And so we had to decide, “what are the fundamental directions we’re going in?” and “what makes sense and what doesn’t?” And there were a bunch of things that didn’t. And micro-cosmically they made sense, macro-cosmically they made no sense.
+
+The hardest thing is … you think about focusing, right? You think, “well, focusing is saying yes”. No, focusing is about saying “no”. Focusing is about saying no. And you’ve got to say “no, no, no”. When you say no, you piss off people. And then you go talk to the Santa Fe Mercury and they write a shitty article about you. And it’s really a pisser because you want to be nice, you don’t want to tell the Santa Fe Mercury a person was asked to leave or this or that. So you take your lumps.
+
+And Apple’s been taking their share of lumps for the last 6 months in a very unfair way and has been taking them like an adult. And I’m proud of that. And there is more to come, I’m sure. I read these articles about some of these people that have left. I know some of these people. They haven’t done anything in 7 years. And you know, they leave and it’s like the company’s going to fall apart the next day.
+
+I think there will be stories like that, but focusing is about saying no. And the result of that focus is going to be some really great products where the total is much greater than the sum of the parts.
+
+And OpenDoc … I was for putting a bullet in the head of OpenDoc. I mean, I think it was great technology but it didn’t fit. The rest of the world isn’t going to use OpenDoc. And I think as a container strategy there is some stuff in the java space that is much better. And even the OpenDoc guys were basically trying to rewrite the whole thing in java anyway, which was a restart. So, it didn’t make sense.
+
+Yes, sir?
+
+The Press and the Stock Price will Take Care of Themselves
+Question: What do we do about the press? Wall Street Journal reporters get up in the morning, sell Apple short and then go write stories about us. And, it’s clear that it’s perception versus reality. They don’t know shit about operating systems. They don’t know anything about tools. They don’t know what’s going on in the future. They don’t know that we’re building icebergs and building from the bottom up.
+
+Sure. You know, I’m sure that a lot of you have had this experience where you’re changing, you’re growing as a person and people tend to treat you like you were 18 months ago. And it’s really frustrating sometimes when you’re growing up and you’re becoming more capable and you’ve had some personality quirks you’ve kind of gotten over, whatever it may be. And people still treat you like you were a year to 18 months ago. It can be very frustrating. 
+
+Well, it’s the same as with a company. It’s the same with the press. The press is going to have a lag time, and the best thing we can do about the press is to embrace them, do the best we can to educate them about the strategy. But the key part is to keep our eye on the prize.
+
+And that is turning out some great products, communicating directly with our customers as best we can, giving the community of people that are going to make this stuff successful like yourselves in the loop so you know everything, and just marching forward one foot in front of the other.
+
+It’s like the stock price … the press and the stock price will take care of themselves. By the end of this year, it’s going to look quite different.
+
+And I’m like an old man now in this industry and I’ve seen ups and downs and when you see enough of them, you know that’s going to happen. So, when you get up in the morning and the press is selling Apple short, go out and buy some shares. That’s what I would do. That’s what I have done. 
+
+Proprietary Software versus Adopting Open Standards
+Apple certainly has a tradition of introducing new technology to, but lately, Apple seems more apologetic about being different and it is proud of being different. I was just wondering years after introducing the Macintosh, what Apple can do to get it’s balls back.
+
+I gotta tell you, I have a little different point of view on that. I think Apple’s had its head in the sand over the last many years. There has been so much that’s happened in terms of network computing as an example, that Apple’s completely missed out on it. The Mac is probably one of the least network computer communities in the world in terms of really making use of powerful networks. 
+
+When Next joined Apple, Next had an extremely sophisticated network infrastructure for doing network computing compared to Apple and even now we struggle getting the Apple folks to understand it. Because the Mac has been, because of all of this proprietary-ness in every way, because of the attitude of arrogance that “we can not only invent around networking but invent around this and that…” it’s in its own little world and the rest of the world with so much invested passed it by.
+
+And so, we need to bring the Mac up into the modern world in many areas like network computing. And to do that, because we weren’t first, because we didn’t set the standards and they’ve already been cast in stone, we have to use them.
+
+So, I think the wisdom here is not to say “we’ve got to invent everything ourselves”. The wisdom here is to know what 10% or 20% or 30% probably at most of the stuff we have to invent. And what we should go use that exists. 
+
+We didn’t invent postscript, did we? We got LaserWriter out of it. And we were the first out there with the LaserWriter.
+
+So, I think this whole notion of being so proprietary in every facet of what we do has really hurt us. And again, the management and vision we had encouraged that. Encouraged people to go reinvent the wheel out there our own way. And yeah, it might be 10% better but usually, it ended up being about 50% worse because there are a lot of smart people that don’t work at Apple, too.
+
+Related: Matt Mullenweg on how WordPress adopts Web Standards.
+
+Being Better is More Important than Being Different
+The only other thing I’d like to add is that I think it’s important that Apple will be perceived as different because if Apple says “We’re just like everybody else but better, that really doesn’t say anything at all.
+
+No, I don’t think it’s good that Apple is perceived as different. I think it’s important that Apple is perceived as much better. And if being different is essential to doing that, then we have to do that. But if we can be much better without being different, that would be fine with me. I want to be much better. I don’t care about being different. We’ll have to be different in some ways to be much better, but that’s the prize, wouldn’t you agree?
+
+I would agree, but Apple needs to articulate those differences as well. The goal is to be better, but for the general public, it has to be a whole lot better and it has to be in some ways different.
+
+It has to be a whole lot better.
+
+From Local Storage to Cloud Storage
+Good morning. You said in your opening ground rules that there were lots of holes that Apple couldn’t necessarily do themselves without this community. As a visionary, do you think you could spend a couple of minutes talking about those goals?
+
+Sure. Much of the great leverage of using computers these days, is using them not just for computationally intensive tasks but using them as a window into communication-intensive tasks, as you know. And never have I seen something more powerful than this computation combined with this network technology that we now have. So, not only networks throughout an organization, of course, the wide-area networks through the internet.
+
+And, I just want to focus on something that’s very close to my heart, which is living in a high-speed network world to get your job done every day. Now, how many of you manage your own storage on your computers? How many of you back up your computers, as an example? How many of you have had a crash in the last three years? Four years? Right.
+
+Ok, let me describe the world I live in. About 8 years ago, we had high-speed networking connected to our now obsolete Next hardware (we were running Next at the time). And because we were using NFS, we were able to take all of our personal data, our “home directories” we called them, off of our local machines and put them on a server. And the software made that completely transparent and because the server had a lot of RAM on it, in some cases, it was actually faster to get stuff from the server than it was to get stuff off of your local hard disk because in some cases it would be cached in the RAM of the server if it was in popular use.
+
+But what was really remarkable was that the organization could hire a professional person to back up that server every night, and could afford to spend a little bit more on that server, so maybe it had redundant disk drives, redundant power supplies.
+
+And you know, in the last 7 years, you know how many times I have lost any personal data? Zero. Do you know how many times I back up my computer? Zero. I have computers at Apple, at NeXT, at Pixar, and at home. I walk up to any of them and log in as myself. It goes over the network, finds my home directory on the server, and I’ve got my stuff, wherever I am. And none of that is on a local hard disk.
+
+Gigabit Ethernet Enables Cloud Storage
+Now, what’s really interesting to me is that gigabit Ethernet is coming.
+
+With gigabit Ethernet, it is faster in every case to talk to the server, than it is my local hard disk. One of the things I’m really excited about is to look at that personal computer and take out every moving part except the keyboard and mouse. I don’t need a hard disk in my computer if I can get to the server faster.
+
+Because I look at that network connection as MFS Dialtone, I get it over that wire. And I don’t care how it’s done. I don’t care what box is at the other end. 
+
+We have a big one at NeXT, spend half a million bucks on it. It was worth it. We did a lot of software development. Nobody ever lost anything. Nobody had to worry about that stuff. You could have smaller ones. But managing a network like this is a pain in the butt. Setting it up, getting it all to work is really complicated.
+
+One of my hopes is that Apple can do, through this new type of network (not so new, but for the average person it’s new) with gigabit Ethernet technologies and some of the new server stuff that’s coming down the pike and some thinner hardware clients, that Apple could make that as plug and play for mere mortals as it made the user experience over a decade ago.
+
+That’s one of the things where I think there’s a giant hole and I can’t communicate to you how awesome this is unless you use it. And what you would decide within a day or two is that carrying around these non-connected computers or computers with tons of data and state in them is byzantine by comparison. 
+
+So, there are about 3 or 4 things like that, where there is an enormous opportunity and a lot of times both in people and in organizations, your greatest strength also can be your greatest weakness or your greatest weakness can be your greatest strength.
+
+Implement A Vision Faster Through End-to-End Product Design
+Apple has been highlighted as having an incredibly great weakness of being totally and vertically integrated. It doesn’t make its own semi-conductors but it makes the hardware, it makes the software, it controls the user experience, it does the marketing. And many people are constantly calling for Apple to get out of the hardware business because of that weakness that they perceive.
+
+I don’t agree with that. I perceive it as a potential weakness if not managed right. I also perceive it as Apple’s greatest strength if managed right.
+
+I’ll give you an example: plug and play. 
+
+To get anything done in the PC industry, it seems to take years. Plug and Play was an initiative that was launched 5 years ago. It took 2 years to get it all together between Microsoft and Compaq and an Intel fought with them and then finally got Intel into the fold… and here we are 5 years later, and still, it doesn’t really work.
+
+You can imagine how long it will take them to make a thin client standard and servers that plug and play within clients easily. We’re in the third millennium. So, the fact that Apple controls the product design from end to end: hardware, software, gives Apple an incredibly unique opportunity. The only company in the industry that does that. An incredibly unique opportunity to tackle some of these really complex problems that could have an enormous potential advantage in the market if we could solve them.
+
+And I think we solve them literally a half a decade to a decade sooner than the 93 headed monster out there in the Intel space. 
+
+Now, they have their advantages too, don’t get me wrong. But I think one of our great advantages is that we can really control all the disciplines to actually implement a vision much faster if we can get ourselves all going in a few directions.
+
+Opportunities for the Software Developer Ecosystem
+That sounded really great, and as you were talking I was getting sort of caught up in it. And then it occurred to me: That’s a really great vision for Apple. But then, I asked about holes for developers.
+
+I’ll give you tons of simple ones.
+
+Microsoft hasn’t committed to port their suite of applications yet, have they? For Rhapsody. What are you waiting for?
+
+Adobe – do you know how many copies of Photoshop Adobe ships every month? Bazillions! That’s the foundation of Adobe, Photoshop. Adobe has not, to my knowledge, committed to port Photoshop to Rhapsody yet. What are you waiting for?
+
+There was a company called Lighthouse, that was actually bought by Sun about 6 months ago. They were the best NeXTSTEP developer. They had 18 developers, ok? They had by far and away the best presentation application I’ve seen in my life called Concurrence. I still use it today.
+
+They had a suite of 5 different apps. And each one was best of breed. The best spreadsheet I’ve ever used in my life, called Quantrix. How many of you use Improv here? Ok, Improv is the best spreadsheet on the planet, because it incorporates a whole new way of thinking about spreadsheets for people like me that want to model things. It’s phenomenally powerful. 
+
+And Lotus couldn’t compete with themselves, so they gave it up and Lighthouse copied it. 18 developers, 5 apps, because of the power of this development environment.
+
+Software Development and App Marketing
+What Apple is going to be putting in your hands is a system that you can build apps for 5 or 10 times faster than anything out there. Period.
+
+And you can choose to do one of two things or somewhere in the middle with this power. 
+
+Make existing complexity apps, 5 to 10 times faster
+You can make existing complexity apps 5-10 times faster, which means that 3 people really can go into a garage on day one with a concept and come out in the market with a product 6-9 months later. I haven’t seen that in our industry in 10 or 12 years. And that’s very, very, very exciting to me. And some people say, “Well, it will only run on a Macintosh, or it will only run on Rhapsody selling on Intel maybe and selling on a Macintosh. Jesus, it’s only a single-digit percentage of the market.” Well, Jesus, it’s only 3+ million copies a year.
+
+I wouldn’t mind selling into that market. It’s huge, especially if you’re a 3-person, 10-person, 18-person software development company. Lighthouse was making a good living selling to the NeXTSTEP market. Give me a break!
+
+So, you know, I think there’s a huge market out there. And, I think there’s still tremendous loyalty towards Apple by some of these customers. If Adobe doesn’t want to write the next generation Photoshop on Rhapsody, some of you should! Maybe they’ll buy you… who knows?
+
+But, the publishing market out there would love to see the next generation but even more so, you know who would love it even more than them? Apple. Right?
+
+You walk in here and say “I’ve got something that’s 5 times better than Photoshop for these publishing people”. And if enough of the publishing people agree to where you convince Apple that that’s really the case … do you know how much Apple spends on marketing each year?
+
+They should spend some of it on these apps. And telling the world about them. So, if you come up with something really great, I think it’s going to get out there. And I think this is a pretty unique opportunity.
+
+Build an app you could not build on any other platform
+I want to get back to the last point I was making. One of the other things you can do with these powerful tools in addition to building a current complexity 5-10 times faster, is building an app you couldn’t build on any platform. And that to me is the most exciting.
+
+Build an app you could not build on any other platform because it’s all about managing complexity, right? You are developers, you know that. It’s all about managing complexity. It’s like scaffolding, right? You erect some scaffolding, and if you keep going up and up, eventually, the scaffolding collapses of its own weight, right? That’s what building software is.
+
+It’s how much scaffolding can you erect before the whole thing collapses of its own weight. It doesn’t matter how many people you have working on it. It doesn’t matter if you’re Microsoft with 300-400 people, 500 people on a team. It will collapse under its own weight.
+
+You read “The Mythical Man-Month”, right? The basic premise of this is a software development project gets to a certain size where it can add one more person. The amount of energy to actually communicate with that person is actually greater than their net contribution to the project so it slows down.
+
+So you have a local maximum and then it slows down. We all know that about software. It’s about managing complexity. These tools allow you to not have to worry about 90% of the stuff you worry about, so that you can erect your 5 stories of scaffolding, but starting at story number 23 instead of starting at story number 6. You can get a lot higher.
+
+You mentioned stocks and how we can really look forward to that toward the end of the year. I’m wondering, can you make any comment whatsoever on Larry Ellison?
+
+There are lots of comments one could make about Larry Ellison. I’ve never dated Larry, so that excludes a bunch of them. No, actually Larry is my best friend, and it put me in a slightly awkward situation.
+
+I have certainly encouraged him to not seek to take control of Apple because I think Apple is on a good course right now. And I think Larry is on an awesome course. I mean, one of the things I told him was, “Look, if you took a poll in Silicon Valley of what company you’d like to run, Oracle would be at the top of many people’s lists. Second largest software company in the world, one of the most dynamic companies on the planet.” And Larry built it from scratch and he’s got one of the greatest jobs in the world.
+
+So I think Larry has made his public pronouncement that he’s going to stick to running Oracle. So, I wouldn’t worry about that. And I think what we need to worry about is just making some great products and getting some applications on them and telling our customers about both of those things.
+
+How to Compete with Industry Leaders: Build What You and your Friends Want
+A few weeks ago, The Wall Street Journal announced the profit figures for Microsoft. And they also said that in this industry, the only companies really doing well are Intel, Microsoft and perhaps Compaq. Could you comment on the possibility of competing against monopolies that the justice department seems to for some strange reason avoid prosecuting for antitrust?
+
+The day we started Apple computer, IBM was far more powerful in the computer industry than Microsoft and Intel are today. Because they not only controlled the technology, they controlled the customer. They had direct contact with the customer.
+
+And, so, we should just get out. I mean, I should have just nudged Woz and said “Hey, forget it. Not a chance”. But, we were too stupid to know that. We hadn’t gone to business school. We didn’t read the Wall Street Journal. We didn’t know what the Wall Street Journal was. I’d never seen a Wall Street Journal. And that served us well. And so, what can I say?
+
+I think every good product that I’ve ever seen in this industry and pretty much anywhere, is because a group of people cares deeply about making something wonderful that they and their friends wanted. They want to use it themselves.
+
+And that’s how the Apple I came about, that’s how the Apple II came about, that’s how the Macintosh came about. That’s almost everything I know that’s good has come about.
+
+It didn’t come about because people were trembling in a corner worried about some big company stomping on them. Because, if the big company made the product that was right, then most of these things wouldn’t have happened.
+
+If Woz and I could have plunked down 2000 bucks and bought an Apple II, why would we have built one? We weren’t trying to start a company; we were trying to get a computer.
+
+I’ll give you an example.
+
+I get about 200 email messages a day, sans all the get rich quick ones from the Internet. And I’ve been in that mode now for about 5-6-7 years. And email, to me, is the most important app I use.
+
+And I’ve used every email system I know of out there, and I can tell you that the one on NeXTSTEP or Rhapsody is literally almost an order of magnitude better, more productive, than anything else I know.
+
+I mean, I walk around Apple and they are using the worst email system in the world. And I know we could improve the productivity inside Apple 30% if we just give them a good email system.
+
+And so, it’s amazing to me that something as obvious as email is so broken out there. Netscape’s is awful. I mean, everybody’s is awful. And if something so obvious as email is so broken … and the other one I mentioned before: spreadsheets. If you use Improv or Quantrix for a week, you would go, “How come this hasn’t completely replaced Excel?” for 75% of the people out there. 25% will still want Excel, for good reason. But for 75% of the people, why hasn’t this replaced it? And there are no answers to these questions except – “let’s go do it!” And that’s my attitude about this thing.
+
+Apple Competing Microsoft
+The other thing I feel very, very, very strongly is: It’s incredibly stupid for Apple to get into a position where for Apple to win, Microsoft has to lose. That’s really dumb. 
+
+I mean, I don’t expect the Federal Government to break up Microsoft. For a lot of reasons, the least of which is the Federal Government is a monopoly. I mean – they’re buddies!
+
+So, Microsoft is a fact of life. They’re like the air we breathe, you know? So, probably a better analogy is like bottled water because you do have to buy it.
+
+TODO: LINK PROPRIETORY
+
+But nonetheless, Apple can win without having Microsoft lose. I firmly believe that. And hopefully, Microsoft will increasingly, over time, realize that that is the case and that Apple represents a quite profitable part of their business.
+
+And they seem to be coming around to that point of view. An alliance has been announced between Microsoft and Apple. So, I really really strongly feel that setting Microsoft up as Satan and having a holy war against Microsoft would be exactly the wrong thing for Apple to do. There are so many opportunities out there where Apple can really have a tremendous advantage and not have to go head to head with Microsoft, but really go right to the customers.
+
+Pricing and Licensing Apple’s Operating System Rhapsody
+I was hoping that you would venture an opinion this morning on how you see the future evolution of the Macintosh compatible market.
+
+This is my personal opinion. I believe Apple should license everything. With a few exceptions. But I think Apple should get a fair price for it. And I think the clone set up, the way it was set up was done really poorly – about 3 or 4 years ago.
+
+For one thing, Apple licenses the hardware design and forces the clone makers to use it. That’s stupid. Let the clone makers do their own hardware design – let them do whatever hardware they want. Right? Don’t tie their hands.
+
+But if want to pay extra for that, if they want to use Apple hardware. Fine, but if they don’t, let them design their own.
+
+And on the software, Apple should get a fair price based on volume.
+
+As an example, if I’m a clone maker – as you know, some of the low-end Macintoshes, whether they are compatibles or not, probably don’t make much money. As a matter of fact, you could even imagine they might lose money just to get people in the fold. 
+
+And, to offset those kinds of low margin products, we need some higher-margin products at the high-end. So if you’re a clone maker you think, “Wow, I think I’ll give Apple ten bucks for the software and I’ll go after the $5000 Mac market. 
+
+Well, that would be really stupid for Apple to do. Because this clone maker is just a leech. They are living off the fact that Apple has got this business model to not make much money on some levels and try to eek some back at the high levels by just going after the high level and paying ten bucks for the software, that wouldn’t be fair.
+
+So you want people to pay more money if they are in lower volume because the only way they can get to higher volume is to make some of those medium and low priced clones, too, and make less margin. And if they’re doing that, then they ought to get a lower price across their whole range of products.
+
+So I’ve been advocating to eliminate the licensing of the hardware and let the clone makers do whatever they want, and b) to raise the price for the royalty of the software to a reasonable level and make it a scale based on volume. And I think that’s the right thing to do. Some of the clone makers are going ballistic over it. It’s incredibly stupid. I mean, I don’t they that they ought to pay more for Rhapsody, as an example, than they do for other modern operating systems for licensing. But that’s not 10 or 20 or 30 bucks.
+
+And I think that’s where we’ll end up and I think everybody will be fine and I think the clone makers will have a much easier time and they won’t have to deal with Apple’s hardware. Maybe they’ll make some better hardware and maybe they’ll make some worse hardware and the customers will decide. And I’m all for it. 
+
+I just think Apple ought to get a little bit of value out of their software and not just out of the clone makers picking off their high margin products and paying ten bucks a copy. If they want to pick off the high margin products and pay a fair price for the software, let them have at it. So, that’s how I feel about that. But I’m not making the decision.
+
+Empowering Developers to Serve the Market
+Even so, I’m glad you’re here. You mentioned managing complexity. There’s a lot of people out there who are either not using computers or think of computers as something they have to babysit- they work for their computers. How can we get computers to where they work for people instead?
+
+I don’t really know. I’m not sure what you mean. I don’t feel I work for my computer. I feel it’s a little invasive – I mean, I have a T1 in my house and you sort of getting in the habit of answering emails within a few seconds after you arrive, so it can be invasive on family life. But ….
+
+How can it serve us more and go on and do things for us without us having to sort of watch? We have this whole system of “I click once, the computer does one thing… I click another thing…. It never goes on and works for me for 15 minutes…. I mean….
+
+I guess my point of view is a little bit different on that:
+
+My point of view is that I’m routinely running 10-15 applications at once on my computer;
+They are all routinely talking to each other in a very wonderful way that I don’t have to pay much attention to, and I can move things between them very easily;
+And I’m connected in an extremely high-speed easy transparent productive way with my colleagues. 
+It’s so much better than anything I see in the Windows or the Mac world today. That I will be happy if over the next 12 to 24 months, as you guys roll out your apps, that we can just bring this to everybody. 
+
+Secondly, I know there are at least 20 more apps that I’d love to be using, that haven’t been written yet. And if we can make those apps really easy to write, and if we can keep the Mac market far less expensive to market into than the Intel market, then we can all get a chance to use those great apps that you guys are going to write.
+
+So, my view is that for the next several years, like 3-4 years, our job is to not reinvent the world. It’s to take something that we know exists already but hardly anybody’s got it, and get it out to them. 
+
+To be honest, it’s a lot like Xerox Parc. Xerox Parc had some of the things that were in a Macintosh, just nobody else had them. There are thousands of people out there who use this now, but there aren’t millions and if we can get that out there, I think it’s going to change a lot. And, fortunately, a lot of it is tried and true and been polished and refined and is pretty bulletproof so we’re not going to have to go through any embarrassing early moments, I hope.
+
+Programmer Productivity
+That would be cool. You mentioned tools. There is a great, wonderful NeXTSTEP demo where we have a visual way of building an interface – it’s great. And then, all of a sudden, we’re back into text. When will we visually program?
+
+Here’s the deal. The way you get programmer productivity is not by increasing the lines of code per programmer per day. That doesn’t work. The way you get programmer productivity is by eliminating lines of code you have to write. Right? The line of code that’s the fastest to write, that never breaks, that doesn’t need maintenance, is the line you never had to write – right? 
+
+So, the goal here is to eliminate 80% of the code that you have to write for your app. That’s the goal. And so, along the way, if we can provide WYS –this and WYS-that, and visual this, and visual that, … well, that’s fine, but the high order bit is to eliminate 80% of the code. 
+
+When you drag a line into the interface builder you’re eliminating a line of code in one form. But that only goes so far. Maybe it can go further. I’ve seen a lot of demos that try to take it all the way back into the algorithmic part of the code base, and none of them have ever been any good. If there are any good ones out there, show Bobby and he’ll show me. I would love to see them.
+
+Controlling Hardware
+You mentioned how good it is that Apple controls the hardware. There seems to be a conflict of interest here between Apple’s own hardware and some of the cloning hardware.
+
+I don’t believe that’s true at all.
+
+The person running hardware at Apple, I’ve known for a decade. His name is John Rubenstein. I trust him with my life. He’s the best hardware leader I’ve ever seen in my life. He’s really really really good.
+
+He comes from very high-performance systems and what his expertise is, is putting a lot of those high-performance systems [and make them] really cheap. He’s really good at that, really good at leading teams, really good talented engineering managers and engineers. And what he wants to do is build some kick-ass stuff. Because the Mac hardware is not at the top of the food chain. And we want to get it there. And we are going to get it there.
+
+So, if there was something ready to go that was really good, I promise you, John would be shipping it yesterday. Ok? And in terms of the clone makers, I know that what John is pushing for very strongly, which I support 100%, is to tell the clone makers they can build their own hardware. That’s the easiest thing to do.
+
+Don’t be limited by what Apple does or does not release. Build your own. There are a billion people out there building hardware. Look at the PC clone business. They all build their own hardware. They could have people build it for them. They could have people design it for them. So release them out of the bondage that they can only use Apple hardware. And they can do whatever they want. 
+
+Matter of fact, they could build Rhapsody boxes with Intel processors in them if they wanted to. They could do whatever they wanted to. And that’s where I’m hoping Apple goes.
+
+So you don’t see a conflict?
+
+No, I don’t. All I can tell you is that I know this 100% to be true. If Apple had a hot product, it would be shipping it tomorrow. Ok? And they have shipped a few hot products recently. And if there were any more before when the next batch was coming out, they’d be shipping them instantly. Apple is about having hot products. And, so nothing is being held up that’s any good. I guarantee you that.
+
+Marketing Apple with Television, PR, and Newspapers
+OK, so Apple turned it around. We’ve got Gil, we’ve got you, we’ve got G3, we’ve got Rhapsody, we’ve got Newton 2000. Great. Now, when are we going to see some real kick-ass TV commercials to change the mindset?
+
+Let me go through your preamble a little bit. I personally don’t think Apple has completely turned around. I think we’re turning it around. And I wouldn’t put it in the past tense. I think it’s like this right now.
+
+And I feel very confident in the team that’s managing the pieces of Apple right now. I think they’re doing a really good job. And the strategy I think is pretty doggone good. I feel very good about that and I think it’s turning around and I think you’re going to see more and more signs of that. 
+
+I’ll give you my own opinion on this because marketing is a suggestive thing. It’s not a science. There’s a lot of art to it. And, my personal belief is that the medium really does communicate a lot about the message. In some cases, the medium overrides the message. 
+
+And I personally believe that Apple should not be on television at all this year. It’s the wrong place to be for Apple. Because what it means is that Apple is trying to spend a lot of money to convince you that everything is ok. 
+
+And what I think Apple ought to be doing is taking a fraction of that money and putting it in print. And I don’t mean 8 page Wall Street Journal ads. Because to me, again an 8 page Wall Street Journal ad is saying “I’m going to spend my wad to show you that I’m back”. 
+
+And what Apple needs now is not spending a million dollars to tell people it’s back. It needs for the journalists to be saying Apple is back on page 1. Because if on page 7-14 Apple spends a million dollars saying we’re back but on page 1, a journalist writes an article saying they’re in the tank, who are you going to believe? 
+
+As a matter of fact, that million bucks on page 7-14 is going to reinforce the message on page 1. 
+
+Meanwhile, it’s the TV commercials that are influencing sales.
+
+You know, I don’t buy it at all. I don’t buy it at all. I don’t think that’s true.
+
+I think that more than anything right now, PR is influencing purchase consideration in this category. Not advertising.
+
+So, I’m in the minority, but I have had a certain degree of experience in this matter. And I believe strongly that Apple really needs to talk about its great products, and its great customers and its great applications. And the best way for it to do that is in print in a very straightforward way. 
+
+And I also believe very strongly that the high order bit of any marketing campaign is profitability. We send a boatload of money in any quarter for marketing ourselves. If we lose money in that quarter, any positive momentum that we’ve created is completely erased. 
+
+Profitability to me is the high order bit of marketing for Apple at this point in time. And I think we’re approaching that and I think we should just use every ounce of financial resources to get there and I think that will be very strong and very loudly heard. 
+
+I think we should focus on PR and I think we should focus on print advertising and stay out of television this year, but I don’t make these decisions. So that’s my recommendation and that I’ve given Apple.
+
+Start with the customer experience, work backward to the technology
+Steve Jobs at WWDC, 1997. Here's a full and searchable transcript!
+Steve Jobs at WWDC, 1997
+I would like, for example, for you to express in clear terms how Java, in any of its incarnations, addresses the ideas embodied in OpenDoc. And when you’re finished with that, perhaps you could tell us what you personally have been doing for the last 7 years.
+
+You know … you can please some of the people, some of the time.
+
+One of the hardest things, when you’re trying to effect change, is that people like this gentleman are right in some areas. 
+
+I’m sure that there are some things OpenDoc does, probably even more that I’m not familiar with, that nothing else out there does. And I’m sure that you could make some demos, maybe a small commercial app, that demonstrates those things. 
+
+The hardest thing is: how does that fit in, to a cohesive, larger vision, that’s going to allow you to sell 8 billion dollars, 10 billion dollars of product a year?
+
+And, one of the things I’ve always found is that you’ve got to start with the customer experience and work backward to the technology. You can’t start with the technology and try to figure out where you’re going to try to sell it. 
+
+And I made this mistake probably more than anybody else in this room. And I got the scar tissue to prove it. And I know that it’s the case.
+
+And as we have tried to come up with a strategy and a vision for Apple, it started with “What incredible benefits can we give to the customer? Where can we take the customer?” Not starting with “Let’s sit down with the engineers and figure out what awesome technology we have and then how are we going to market that?” And I think that’s the right path to take. 
+
+I remember with the Laser Writer. We built the world’s first small laser printer, as you know. And there was awesome technology in that box. We had the first Canon cheap laser-printing engineer in the United States here at Apple. We had a very wonderful printer controller that we designed. We had Adobe’s PostScript software, we had AppleTalk in there. Just awesome technology in the box.
+
+And I remember seeing the first print out, come out of this. And just picking it up and looking at it and thinking, “You know, we can sell this”. 
+
+Because you don’t have to know anything about what’s in that box. All we have to do is hold this up and say, “Do you want this?” 
+
+And if you can remember, back in 1984, before laser printers, it was pretty startling to see that. People went, “Whoa, yes!”. And that’s where Apple’s got to get back to.
+
+And you know, I’m sorry that OpenDoc is a casualty along the way, and I readily admit that there are many things in life that I don’t have the faintest idea what I’m talking about. So, I apologize for that too, but there’s a whole lot of people working super hard right now at Apple. 
+
+Avie, John, …, Fred. The whole team is working, burning the midnight oil, and hundreds of people below them, to execute on some of these things and they’re doing their best. And some mistakes will be made along the way, that’s good because at least some decisions are being made along the way. When we find a mistake and we’ll fix it. 
+
+I think what we need to do is support that team going through this very important stage, as they work their butts off. They’re all getting calls being offered three times as much money to go do this and that. None of them are leaving. 
+
+And I think we need to support them through this and write some damn good applications to support Apple out in the market. That’s my point of view. Mistakes will be made, some people will be pissed off, some people will not know what they’re talking about, but I think it’s so much better than where things were not very long ago. And I think we’re going to get there.
+
+So, I think we’ve got time for just a few more questions.
+
+How to Convince Corporates to Stay with Experimental Software
+I work for a large corporation that is seriously reconsidering its development targeting for the Macintosh. They sent me out here on last year’s WWDC and I came back with a lot of new technology and I really impressed them with “We have Gil on board now, we’ve got a next-generation OS we’re moving forward with. I’ve lost a bit of credibility with that. 
+
+Now, Monday morning, I’ve got to go back to them and say “Now, we really mean it this time. We’ve got great new technology and I really do believe in the new strategy.” If you were a software developer like me, who works for a Fortune 500 corporation, what would you tell my people to convince them to stay with the Macintosh?
+
+Good question. Let me ask you a few questions: do you use primarily off the shelf applications or do you roll some of your own apps?
+
+It depends on what item you’re talking about. Mostly I use Code Warrior and I use Photoshop and some of the word processing things. The things I write are generally for my company or things that I’ve written for myself.
+
+I guess what you’re saying is that you’re trying to convince your company to stay with Macintoshes. Does your company use those Macintoshes to employ custom apps that you write for your company or does your company use those Macintoshes to employ primarily shrink-wrapped apps?
+
+Mostly it is support-software for hardware that they sell that is targeted for both PCs and Macs.
+
+Do they write that software themselves?
+
+Yes, they do.
+
+Well, one of the things you could say is, if they could write that software 5-10 times faster and deploy it on Mac and with Rhapsody on Intel on PCs, would that be of interest to them?
+
+I think it would.
+
+I would throw that into the mix of arguments I would use. And the other thing I would do is … Guarino Deluca is here. He runs marketing for Apple. Go, find this guy. He’s actually got a white paper on this you should get your hands on.
+
+Focussing on Connectivity, instead of Individual Computers
+A while ago, Apple had a vision of a user interface. I wouldn’t have to do work, my machine would do it for me using agent software, knowledge navigator, intelligent agents. Are we going to see the like of that sometime soon? Because I’m signed up for that.
+
+It turns out there is so much headroom to make the network world we live in so much more productive, so much easier and so much more fun than it is now that we know how to do. It’s not research. We know how to do this. That to bet our future right now on the results of research in the agent world, where you can pick up all sorts of magazines and read people spouting off. 
+
+There’s nothing tangible about it. It is research at this moment. To bet our future, to bet our next 5 years on research – this is something that is so tangible that we know, that we can feel, that we can touch – would be foolish.
+
+The core of our strategy is to take advantage of the dramatic headroom to make this connected world so much more productive for the rest of us, rather than just an individual computer, which was the original vision of the Mac. To take that next big leap and make that connected world so much more productive … that’s what we’re doing. 
+
+Not that we’re not working on agents. There are people working on agents in the back. But the core of the strategy is focused on what I just said. And, I think you’re right. I think at some point, that they’re going to start doing more for us in ways we can’t imagine. But even before we get to that, we can make life 5 times better even without that research being successful.
+
+What do you think Apple should do with Newton?
+
+I’m in the minority. And what I think doesn’t really matter about this. 
+
+I think that most companies can’t be successful with one stack of system software. Rarely can they manage two. And we, I believe, are going to succeed at managing 2 during the next several years with Mac OS and Rhapsody, which is a superset of that. I cannot imagine being successful in trying to manage three. 
+
+So, I have a sort of a law of physics disconnect with trying to do that. I just don’t see how it can be done. And I don’t think that has anything to do with how good or bad Newton is, or whether we should be making 800 dollar products or 500 products, which I think we should. It has to do with – I don’t see how you manage 3 software stacks. So that’s what I think.
+
+Do you actually have a Newton as a user?
+
+I tried a Newton. I bought one. I bought one of the early ones. I thought it was a piece of junk. I threw it away. I bought one of the Motorola Envoys, I thought it was a piece of junk after using it for 3 months. I threw it away. I hear the new ones are a lot better. I haven’t tried one. 
+
+I will but, see here’s my problem: my problem is to me, the high order bit is connectivity. The high order bit is being in touch, connected to a network. That’s why I bought the Envoy. It had a cellular modem in it. 
+
+And I don’t think the world is about keeping my life on this little thing. I’m already getting into my computer when I get back to my base station. 
+
+To me, what I want, is this little thing I can carry around with me that’s got a keyboard on it. Because to do email you need a keyboard. And you need to be connected to the net. So if somebody would just make a little thing where you’re connected to the net at all times, had a little keyboard with a modem in it, I’d like to buy one. But I don’t see one of those out there. And I don’t care what OS it has in it. 
+
+So, I don’t want a little scribble thing. But that’s just me. One last question.
+
+Reorganizing and Managing Apple
+This is going back to PR and marketing. First off, would you be interested in taking a slightly more evangelistic role within the company because yes, you are a single person, you are in the minority, so to speak, but when you talk it does have a lot of effects because basically, a stone in the pond produces a lot of ripples. 
+
+The second thing that ties to that is – on the marketing side – going to print, that makes sense. And going to get the writers to write stories and back things up will have a very positive effect and that’s correct. But the marketing side of the house seems to not be in sync with everything else. In particular, marketing agencies. 
+
+What would it take for Apple to work with a marketing agency that has a vested interest in making things successful? Personally speaking, I don’t feel that the president of a marketing organization has Apple’s best interest at heart. Because they’re not hungry. They have no drive. They have no reason to make something fly because if they don’t, we die along with them.
+
+Let me answer your questions in reverse order. I think Apple needs to be working with really great agencies. I don’t care if they are hungry or if they’re not. I don’t care if they’re west coast or east coast. They just need to be great. The results need to be great. 
+
+The customers aren’t going to measure us on how people tried or how hungry they were. They’re going to measure us on what they see. And I agree with you. I don’t think 100% of people Apple is working with are great.
+
+And I think the person running marketing, Guarino Deluca is really good, and he knows that and he is working through those things in a priority list. And he’s starting with the most important ones and working his way down. And so, I think your point of view is absolutely shared. And it will take a few more months to see some of those things happen and probably a few more months after that to get results because there are more important things that need to be done. And are being done.
+
+In terms of my role, when Apple bought NeXT, Gil asked me to be an advisor to him and I agreed to do that until he told me to go away or I decided he wasn’t listening to me. And neither of those has occurred. And I’m very grateful for the opportunity and like working with him on strategic issues. 
+
+The area where I really concentrated my energy over the last several months has been to help Gil re-architect the organization of the company and his senior lieutenants. And so the company went from being a very divisionally oriented company with a zillion P&L centers and it was very complicated – to a very simple organization.
+
+Very functionally organized:
+
+Avie Tevanian came in and he’s running all software now. I think Avie is really first-rate. I think he’s one of the best software executives on the planet. And I think he’s doing a really good job. 
+John Rubenstein came in to run hardware, and I talked a little bit about John earlier. He is tops. 
+Guarino Deluca is running marketing. He previously ran Claris and I think he’s doing a very fine job. 
+Fred Anderson, the CFO, is top-notch. 
+And the rest of the team as well. Manufacturing etcetera is very, very good. So, I feel like the team can execute the plan is pretty strong, and they are working well together as a team. To me, that’s the high order bit.
+
+It’s not going around giving speeches and things like that. Apple’s problem has been not a lack of air volume, coming out of Apple. It’s been execution and lack of good management. It’s just the basic stuff. 
+
+And I think the basics are getting put in place. And to a large extent, they’re already put in place. And that’s filtering down through the organization. 
+
+Results don’t happen overnight, but I think that they’re starting to happen already. From the new products, I think, are good, and I think by the end of this year it’s going to be much clearer that things are going like this.
+
+So, my suggestion to you is don’t get freaked out by Microsoft any more than we were freaked out by IBM when we started Apple.
+
+Even though you may not fully see it, there has been a key change at Apple in the management of the company. There are some very strong people running a functional organization.
+
+I have a lot of confidence in the senior team of the company to execute and I think they’re going to. I think the move to Rhapsody represents a very discontinuous opportunity for software developers to compete and to make some really great products. 
+
+And Rhapsody is going to run on everything, from PCs to the new Macs, to even the old Mac OS, and I think there’s a tremendous opportunity to embrace this new stuff. 
+
+So, if I were you, what I would do is go out and buy any box that runs Rhapsody and start taking a look at it, and start developing some code on it. And I think you’re going to be blown away. 
+
+And I think there’s an opportunity to make some really wonderful apps and the customer base that we have, a few tens of millions of people, can really start to zoom ahead as the rest of the whole industry in what they can do. The capabilities they have, the experience they have and the fun that they have. And a lot of it is going to be up to you and I really hope that you embrace this as much as the team at Apple is. Because we have a chance to do something really good.
+
+I really appreciate the chance to come and hear some of your questions and hopefully answer some of them. Thank you.
+
+
+
+
